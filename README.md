@@ -10,14 +10,14 @@ contributing something to the list
 
 option 1: send an email to me@evanhahn.com and i'll just add it.
 
-option 2: [edit data.json](https://github.com/EvanHahn/two-factor-auth-list/edit/master/www/data.json) and send a pull request.
+option 2: [edit data.json](https://github.com/EvanHahn/two-factor-auth-list/edit/master/data.json) and send a pull request.
 
 anything you contribute will be licensed under the [unlicense](http://unlicense.org/) (basically the public domain). and also you will be credited on the page unless i'm an idiot and forget
 
 deploying this
 --------------
 
-to deploy this, just put `www` wherever you want to serve it from. it should be on a php server, because it's written in php.
+to deploy this, just put this folder wherever you want to serve it from. it should be on a php server, because it's written in php.
 
 *"why php??"*, you cry. get over it, *nerd*
 
