@@ -4,9 +4,20 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 
 /* global */
 
+* {
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+}
+
 html {
 	font-family: Lato, "Segoe UI", Avenir, "Helvetica Neue", Helvetica, sans-serif;
 	-webkit-font-smoothing: antialiased;
+}
+
+a {
+	text-decoration: none;
 }
 
 .container {
@@ -17,11 +28,11 @@ html {
 
 /* the top */
 
-header {
+header .logo {
 	background: #f34;
 }
 
-header h1 {
+header .logo h1 {
 	display: block;
 	font-size: 2em;
 	font-weight: 900;
@@ -42,14 +53,55 @@ header h1 {
 	;
 }
 
+header .authors {
+	padding: .75em 0;
+	font-size: 12pt;
+	color: #666;
+	background-color: #f3f0f5;
+}
+
+header .authors a {
+	color: #666;
+	border-bottom: 1px solid #bbb;
+}
+
+header .description {
+	padding: 1em 0;
+	font-size: 16pt;
+}
+
 @media screen and (min-width: 700px) {
 
-	header {
+	header .logo {
 		padding: 1em 0;
 	}
 
-	header h1 {
+	header .logo h1 {
 		font-size: 2.5em;
 	}
 
+}
+
+/* service list */
+
+#service-list li {
+	display: inline-block;
+	margin: .5em;
+	padding: .5em 0;
+	text-transform: uppercase;
+	border-bottom: 1px solid #bbb;
+}
+
+#service-list li h1 {
+	font-weight: bold;
+	font-size: 16pt;
+	margin-bottom: .5em;
+}
+
+#service-list li a {
+	color: #666;
+}
+
+#service-list li a:before {
+	content: '\2022';
 }

@@ -2,11 +2,19 @@
 	"services": [
 		{
 			"name": "Google",
-			"url": "https://support.google.com/accounts/answer/185839?hl=en&topic=1056283&ctx=topic"
+			"howto": "https://support.google.com/accounts/answer/185839?hl=en&topic=1056283&ctx=topic"
 		},
 		{
 			"name": "Evernote",
 			"url": "https://www.evernote.com/secure/SecuritySettings.action"
+		},
+		{
+			"name": "LastPass",
+			"howto": "http://helpdesk.lastpass.com/security-options/google-authenticator/"
+		},
+		{
+			"name": "Facebook",
+			"howto": "https://www.facebook.com/note.php?note_id=10150172618258920"
 		}
 	]
 }
