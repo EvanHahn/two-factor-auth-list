@@ -8,7 +8,8 @@
 		},
 		{
 			"name": "Evernote",
-			"url": "https://www.evernote.com/secure/SecuritySettings.action"
+			"url": "https://www.evernote.com/secure/SecuritySettings.action",
+			"howto": "http://blog.evernote.com/blog/2013/10/04/two-step-verification-available-to-all-users/"
 		},
 		{
 			"name": "LastPass",
