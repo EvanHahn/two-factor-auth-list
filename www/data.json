@@ -66,6 +66,11 @@
 		{
 			"name": "Coinbase",
 			"url": "https://coinbase.com/account?highlight=phone"
+		},
+		{
+			"name": "LinkedIn",
+			"howto": "http://howto.cnet.com/8301-11310_39-57587116-285/how-to-enable-two-step-verification-for-linkedin/",
+			"url": "https://www.linkedin.com/settings/"
 		}
 	]
 }
