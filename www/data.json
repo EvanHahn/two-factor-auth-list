@@ -71,6 +71,11 @@
 			"name": "LinkedIn",
 			"howto": "http://howto.cnet.com/8301-11310_39-57587116-285/how-to-enable-two-step-verification-for-linkedin/",
 			"url": "https://www.linkedin.com/settings/"
+		},
+		{
+			"name": "GitHub",
+			"howto": "https://help.github.com/articles/about-two-factor-authentication",
+			"url": "https://github.com/settings/two_factor_authentication/intro"
 		}
 	]
 }
