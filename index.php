@@ -57,17 +57,17 @@ header('X-UA-Compatible: content="IE=edge');
 		<li>
 			<h1><?php echo $service->name ?></h1>
 			<?php if (isset($service->url)): ?>
-				<a title="Enable it" href="<?php echo $service->url ?>">
+				<a title="Enable it" href="<?php echo $service->url ?>" target="_blank">
 					Enable it
 				</a>
 			<?php endif ?>
 			<?php if (isset($service->howto)): ?>
-				<a title="How-to" href="<?php echo $service->howto ?>">
+				<a title="How-to" href="<?php echo $service->howto ?>" target="_blank">
 					How-to
 				</a>
 			<?php endif ?>
 			<?php if (isset($service->info)): ?>
-				<a title="Info" href="<?php echo $service->info ?>">
+				<a title="Info" href="<?php echo $service->info ?>" target="_blank">
 					Info
 				</a>
 			<?php endif ?>
@@ -80,7 +80,9 @@ header('X-UA-Compatible: content="IE=edge');
 <footer>
 	<div class="container">
 
-		Want to add a website? <a href="mailto:me@evanhahn.com">Send me an email</a> or <a href="https://github.com/EvanHahn/two-factor-auth-list/edit/master/data.json">send a pull request on GitHub</a>. I'll credit you and the internet will love you forever.
+		<p>Want to add a website? <a href="mailto:me@evanhahn.com">Send me an email</a> or <a href="https://github.com/EvanHahn/two-factor-auth-list/edit/master/data.json">send a pull request on GitHub</a>. I'll credit you and the internet will love you forever.</p>
+
+		<p><a href="https://github.com/EvanHahn/two-factor-auth-list">Check this project out on GitHub</a>, too. There are pictures of fire.</p>
 
 	</div>
 </footer>
