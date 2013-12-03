@@ -80,6 +80,11 @@
       "url": "https://www.paypal.com/us/cgi-bin/webscr?cmd=_security-key"
     },
     {
+      "name": "Stripe",
+      "howto": "https://stripe.com/blog/two-step-verification",
+      "url": "https://manage.stripe.com/account"
+    },
+    {
       "name": "Twitter",
       "url": "https://blog.twitter.com/2013/getting-started-with-login-verification",
       "howto": "https://twitter.com/account/settings"
