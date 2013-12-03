@@ -43,7 +43,7 @@ header('X-UA-Compatible: content="IE=edge');
 
 	<div class="description">
 		<div class="container">
-			<p>Two-factor authentication requires an additional step in addition to entering your password, usually by sending a message to your mobile phone.</p>
+			<p>Two-factor authentication requires an additional step in addition to entering your password, usually by sending a message to your mobile phone. It'll make you more secure.</p>
 		</div>
 	</div>
 
