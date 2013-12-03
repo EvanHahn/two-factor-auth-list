@@ -1,4 +1,25 @@
 two-factor authentication list
 ==============================
 
-wow how cool
+[two-factor authentication](http://news.cnet.com/8301-1009_3-57586014-83/) is pretty neato. i wanted a list of websites that support it and so i made one.
+
+contributing something to the list
+----------------------------------
+
+option 1: send an email to me@evanhahn.com and i'll just add it.
+
+option 2: [edit data.json](https://github.com/EvanHahn/two-factor-auth-list/edit/master/www/data.json) and send a pull request.
+
+deploying this
+--------------
+
+to deploy this, just put `www` wherever you want to serve it from. it should be on a php server, because it's written in php.
+
+*"why php??"*, you cry. get over it, *nerd*
+
+license
+-------
+
+this puppy is licensed under the unlicense (see LICENSE.txt) so you can do whatever you want with it. think of the endless possibilities
+
+the websites herein are not covered under this license, but this does link to them.
