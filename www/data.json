@@ -2,7 +2,9 @@
 	"services": [
 		{
 			"name": "Google",
-			"howto": "https://support.google.com/accounts/answer/185839?hl=en&topic=1056283&ctx=topic"
+			"url": "http://accounts.google.com/SmsAuthConfig",
+			"howto": "https://support.google.com/accounts/answer/185839?hl=en&topic=1056283&ctx=topic",
+			"info": "http://www.google.com/landing/2step/"
 		},
 		{
 			"name": "Evernote",
@@ -14,7 +16,48 @@
 		},
 		{
 			"name": "Facebook",
-			"howto": "https://www.facebook.com/note.php?note_id=10150172618258920"
+			"howto": "https://www.facebook.com/note.php?note_id=10150172618258920",
+			"url": "https://www.facebook.com/settings?tab=security"
+		},
+		{
+			"name": "Twitter",
+			"url": "https://blog.twitter.com/2013/getting-started-with-login-verification",
+			"howto": "https://twitter.com/account/settings"
+		},
+		{
+			"name": "Dropbox",
+			"url": "https://www.dropbox.com/account/security",
+			"howto": "https://www.dropbox.com/help/363/en"
+		},
+		{
+			"name": "Apple",
+			"url": "https://appleid.apple.com/",
+			"howto": "https://support.apple.com/kb/HT5570"
+		},
+		{
+			"name": "Microsoft",
+			"url": "https://account.live.com/Proofs/Manage",
+			"howto": "http://windows.microsoft.com/en-us/windows/two-step-verification-faq"
+		},
+		{
+			"name": "WordPress",
+			"url": "http://wordpress.org/extend/plugins/google-authenticator/"
+		},
+		{
+			"name": "Amazon Web Services",
+			"url": "http://aws.amazon.com/mfa/virtual_mfa_applications/?tag=gmgamzn-20"
+		},
+		{
+			"name": "Drupal",
+			"url": "http://drupal.org/project/ga_login"
+		},
+		{
+			"name": "DreamHost",
+			"howto": "http://wiki.dreamhost.com/Enabling_Multifactor_Authentication"
+		},
+		{
+			"name": "Yahoo",
+			"url": "https://edit.yahoo.com/commchannel/sec_chal_manage"
 		}
 	]
 }

@@ -50,27 +50,30 @@ header('Content-Type: text/html; charset=utf-8');
 
 <?php $services = json_decode(file_get_contents('./data.json'))->services ?>
 
-<ul id="service-list">
-	<div class="container">
+<ul id="service-list" class="container">
 
-		<?php foreach ($services as &$service): ?>
-			<li>
-				<h1><?php echo $service->name ?></h1>
-				<?php if (isset($service->url)): ?>
-					<a title="Enable it" href="<?php echo $service->url ?>">
-						Enable it
-					</a>
-				<?php endif ?>
-				<?php if (isset($service->howto)): ?>
-					<a title="How-to" href="<?php echo $service->howto ?>">
-						How-to
-					</a>
-				<?php endif ?>
-			</li>
-			</a>
-		<?php endforeach ?>
+	<?php foreach ($services as &$service): ?>
+		<li>
+			<h1><?php echo $service->name ?></h1>
+			<?php if (isset($service->url)): ?>
+				<a title="Enable it" href="<?php echo $service->url ?>">
+					Enable it
+				</a>
+			<?php endif ?>
+			<?php if (isset($service->howto)): ?>
+				<a title="How-to" href="<?php echo $service->howto ?>">
+					How-to
+				</a>
+			<?php endif ?>
+			<?php if (isset($service->info)): ?>
+				<a title="Info" href="<?php echo $service->info ?>">
+					Info
+				</a>
+			<?php endif ?>
+		</li>
+		</a>
+	<?php endforeach ?>
 
-	</div>
 </ul>
 
 </body>

@@ -23,12 +23,13 @@ a {
 .container {
 	margin: 0 auto;
 	width: 95%;
-	max-width: 500px;
+	max-width: 600px;
 }
 
 /* the top */
 
 header .logo {
+	padding: 1em 0;
 	background: #f34;
 }
 
@@ -66,15 +67,12 @@ header .authors a {
 }
 
 header .description {
-	padding: 1em 0;
+	padding-top: 1em;
 	font-size: 16pt;
+	line-height: 1.5em;
 }
 
 @media screen and (min-width: 700px) {
-
-	header .logo {
-		padding: 1em 0;
-	}
 
 	header .logo h1 {
 		font-size: 2.5em;
@@ -84,12 +82,14 @@ header .description {
 
 /* service list */
 
+#service-list {}
+
 #service-list li {
-	display: inline-block;
-	margin: .5em;
-	padding: .5em 0;
+	display: block;
+	padding: 1em;
 	text-transform: uppercase;
 	border-bottom: 1px solid #bbb;
+	vertical-align: top;
 }
 
 #service-list li h1 {
@@ -99,6 +99,8 @@ header .description {
 }
 
 #service-list li a {
+	display: block;
+	line-height: 1.5em;
 	color: #666;
 }
 
