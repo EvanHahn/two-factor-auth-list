@@ -62,14 +62,15 @@ header .logo h1 {
 	;
 }
 
-header .authors {
+header .authors, footer {
 	padding: .75em 0;
 	font-size: 12pt;
+	line-height: 1.5em;
 	color: #666;
 	background-color: #f3f0f5;
 }
 
-header .authors a {
+header .authors a, footer a {
 	color: #666;
 	border-bottom: 1px solid #bbb;
 }
@@ -98,6 +99,10 @@ header .description {
 	text-transform: uppercase;
 	border-bottom: 1px solid #bbb;
 	vertical-align: top;
+}
+
+#service-list li:last-child {
+	border-bottom: none;
 }
 
 #service-list li h1 {
