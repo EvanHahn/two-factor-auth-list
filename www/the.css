@@ -26,6 +26,14 @@ a {
 	max-width: 600px;
 }
 
+::selection {
+	background-color: #f3f0f5;
+}
+
+::-moz-selection {
+	background-color: #f3f0f5;
+}
+
 /* the top */
 
 header .logo {
