@@ -9,11 +9,14 @@
       "url": "https://account.app.net/settings/security/",
       "howto": "http://blog.app.net/2013/03/13/added-security-for-your-app-net-account/"
     },
-    }
     {
       "name": "Apple",
       "url": "https://appleid.apple.com/",
       "howto": "https://support.apple.com/kb/HT5570"
+    },
+    {
+      "name": "Bank of America",
+      "url": "https://secure.bankofamerica.com/adminenrollments/safepass/manageSafepass.go"
     },
     {
       "name": "Coinbase",
