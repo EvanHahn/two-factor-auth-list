@@ -1,0 +1,12 @@
+{
+	"services": [
+		{
+			"name": "Google",
+			"url": "https://support.google.com/accounts/answer/185839?hl=en&topic=1056283&ctx=topic"
+		},
+		{
+			"name": "Evernote",
+			"url": "https://www.evernote.com/secure/SecuritySettings.action"
+		}
+	]
+}
