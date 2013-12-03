@@ -24,6 +24,12 @@ header_remove('X-Powered-By');
 </head>
 <body>
 
+<header>
+	<div class="container">
+		<h1>two-factor authentication list</h1>
+	</div>
+</header>
+
 <ul id="service-list">
 
 	<?php $services = json_decode(file_get_contents('./data.json'))->services ?>
