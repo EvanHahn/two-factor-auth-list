@@ -67,6 +67,10 @@
       "info": "http://www.google.com/landing/2step/"
     },
     {
+      "name": "HootSuite",
+      "howto": "https://help.hootsuite.com/entries/22527304-Managing-Google-Authenticator"
+    },
+    {
       "name": "LastPass",
       "howto": "http://helpdesk.lastpass.com/security-options/google-authenticator/"
     },
