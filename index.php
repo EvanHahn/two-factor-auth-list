@@ -37,7 +37,7 @@ header('X-UA-Compatible: IE=edge');
 
 	<div class="authors">
 		<div class="container">
-			<p>lovingly made by <a href="http://evanhahn.com">Evan Hahn</a>. ❤</p>
+			<p>lovingly made by <a href="http://evanhahn.com">Evan Hahn</a> with contributions from <a href="http://mathiasjakobsen.dk/">Mathias Jakobsen</a>. ❤</p>
 		</div>
 	</div>
 
