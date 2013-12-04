@@ -28,6 +28,11 @@
       "url": "https://coinbase.com/account?highlight=phone"
     },
     {
+      "name": "Digital Ocean",
+      "url": "https://cloud.digitalocean.com/settings",
+      "howto": "https://www.digitalocean.com/blog_posts/introducing-two-factor-authentication"
+    },
+    {
       "name": "DreamHost",
       "howto": "http://wiki.dreamhost.com/Enabling_Multifactor_Authentication"
     },
