@@ -72,7 +72,6 @@ header('X-UA-Compatible: IE=edge');
 				</a>
 			<?php endif ?>
 		</li>
-		</a>
 	<?php endforeach ?>
 
 </ul>
