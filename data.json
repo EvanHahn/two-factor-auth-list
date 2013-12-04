@@ -109,6 +109,11 @@
     {
       "name": "Yahoo",
       "url": "https://edit.yahoo.com/commchannel/sec_chal_manage"
+    },
+    {
+      "name": "Zoho",
+      "url": "https://accounts.zoho.com/",
+      "howto": "https://zohosso.wiki.zoho.com/TFA.html"
     }
   ]
 }
