@@ -11,7 +11,7 @@ header_remove('X-Powered-By');
 
 // other headers
 header('Content-Type: text/html; charset=utf-8');
-header('X-UA-Compatible: content="IE=edge');
+header('X-UA-Compatible: IE=edge');
 
 ?>
 
