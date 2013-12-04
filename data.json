@@ -80,6 +80,10 @@
       "url": "https://www.paypal.com/us/cgi-bin/webscr?cmd=_security-key"
     },
     {
+      "name": "Steam",
+      "howto": "https://support.steampowered.com/kb_article.php?ref=4020-ALZM-5519"
+    },
+    {
       "name": "Stripe",
       "howto": "https://stripe.com/blog/two-step-verification",
       "url": "https://manage.stripe.com/account"
