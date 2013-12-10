@@ -32,6 +32,10 @@
       "url": "https://coinbase.com/account?highlight=phone"
     },
     {
+      "name": "Dashlane",
+      "howto": "http://support.dashlane.com/customer/portal/articles/1099221-protect-your-account-using-two-factor-authentication"
+    },
+    {
       "name": "Digital Ocean",
       "url": "https://cloud.digitalocean.com/settings",
       "howto": "https://www.digitalocean.com/blog_posts/introducing-two-factor-authentication"
