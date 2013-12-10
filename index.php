@@ -5,7 +5,6 @@ $csp = "default-src none; style-src 'self'";
 header('Content-Security-Policy: ' . $csp);
 header('X-Content-Security-Policy: ' . $csp);
 header('X-WebKit-CSP: ' . $csp);
-header('X-Frame-Options: DENY');
 header('X-XSS-Protection: 1; mode=block');
 header_remove('X-Powered-By');
 
