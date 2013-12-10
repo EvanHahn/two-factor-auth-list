@@ -108,6 +108,11 @@
       "howto": "https://twitter.com/account/settings"
     },
     {
+      "name": "USAA",
+      "url": "https://www.usaa.com/inet/pages/security_take_steps_protect_logon",
+      "howto": "https://www.usaa.com/inet/pages/security_mobile_devices"
+    },
+    {
       "name": "WordPress",
       "url": "http://wordpress.org/extend/plugins/google-authenticator/"
     },
