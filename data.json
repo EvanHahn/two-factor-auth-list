@@ -91,7 +91,8 @@
     },
     {
       "name": "PayPal",
-      "url": "https://www.paypal.com/us/cgi-bin/webscr?cmd=_security-key"
+      "url": "https://www.paypal.com/us/cgi-bin/webscr?cmd=_security-key",
+      "howto": "http://www.techhive.com/article/2058327/keep-your-paypal-account-safer-with-two-factor-authentication.html"
     },
     {
       "name": "Steam",
