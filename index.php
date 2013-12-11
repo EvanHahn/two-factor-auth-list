@@ -36,7 +36,7 @@ header('X-UA-Compatible: IE=edge');
 
 	<div class="authors">
 		<div class="container">
-			<p>lovingly made by <a href="http://evanhahn.com">Evan Hahn</a> with contributions from <a href="http://mathiasjakobsen.dk/">Mathias Jakobsen</a>, <a href="http://williamella.com/">Billy Ella</a>, and Andrew Uhl. ❤</p>
+			<p>lovingly made by <a href="http://evanhahn.com">Evan Hahn</a> with contributions from <a href="http://mathiasjakobsen.dk/">Mathias Jakobsen</a>, <a href="http://williamella.com/">Billy Ella</a>, Andrew Uhl, and <a href="http://twitter.com/_MattDolan">Matt Dolan</a>. ❤</p>
 		</div>
 	</div>
 
