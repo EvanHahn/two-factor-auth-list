@@ -44,7 +44,8 @@ header('X-UA-Compatible: IE=edge');
 				<a href="http://mathiasjakobsen.dk/">Mathias Jakobsen</a>,
 				<a href="http://williamella.com/">Billy Ella</a>,
 				Andrew Uhl,
-				and <a href="http://twitter.com/_MattDolan">Matt Dolan</a>.
+				<a href="http://twitter.com/_MattDolan">Matt Dolan</a>,
+				and Roy Pitchon.
 
 			❤</p>
 
