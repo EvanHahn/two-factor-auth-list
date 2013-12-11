@@ -19,6 +19,11 @@
       "url": "https://secure.bankofamerica.com/adminenrollments/safepass/manageSafepass.go"
     },
     {
+      "name": "Blockchain.info",
+      "url": "https://blockchain.info/wallet/",
+      "howto": "http://www.bitcoiniacs.com/what-is-bitcoin/secure-blockchain-wallet/"
+    },
+    {
       "name": "Buffer",
       "url": "https://bufferapp.com/app/account/password",
       "info": "https://bufferapp.com/2step"
