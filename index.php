@@ -41,11 +41,12 @@ header('X-UA-Compatible: IE=edge');
 
 				lovingly made by <a href="http://evanhahn.com">Evan Hahn</a> with contributions from
 
-				<a href="http://mathiasjakobsen.dk/">Mathias Jakobsen</a>,
-				<a href="http://williamella.com/">Billy Ella</a>,
-				Andrew Uhl,
 				<a href="http://twitter.com/_MattDolan">Matt Dolan</a>,
-				and Roy Pitchon.
+				<a href="http://williamella.com/">Billy Ella</a>,
+				<a href="http://blog.gastown.biz/">Kevin Hiebert</a>,
+				<a href="http://mathiasjakobsen.dk/">Mathias Jakobsen</a>,
+				Roy Pitchon,
+				and Andrew Uhl.
 
 			❤</p>
 

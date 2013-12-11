@@ -98,6 +98,11 @@
       "url": "https://www.linkedin.com/settings/"
     },
     {
+      "name": "LogMeIn",
+      "url": "https://accounts.logme.in/login.aspx",
+      "info": "https://secure.logmein.com/products/free/security.aspx"
+    },
+    {
       "name": "Microsoft",
       "url": "https://account.live.com/Proofs/Manage",
       "howto": "http://windows.microsoft.com/en-us/windows/two-step-verification-faq"
