@@ -36,13 +36,17 @@ header('X-UA-Compatible: IE=edge');
 
 	<div class="authors">
 		<div class="container">
+
 			<p>lovingly made by <a href="http://evanhahn.com">Evan Hahn</a> with contributions from <a href="http://mathiasjakobsen.dk/">Mathias Jakobsen</a>, <a href="http://williamella.com/">Billy Ella</a>, Andrew Uhl, and <a href="http://twitter.com/_MattDolan">Matt Dolan</a>. ❤</p>
+
 		</div>
 	</div>
 
 	<div class="description">
 		<div class="container">
+
 			<p>Two-factor authentication requires an additional step in addition to entering your password, usually by sending a message to your mobile phone. It'll make you more secure.</p>
+
 		</div>
 	</div>
 
