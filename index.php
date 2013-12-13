@@ -45,6 +45,7 @@ header('X-UA-Compatible: IE=edge');
 				<a href="http://williamella.com/">Billy Ella</a>,
 				<a href="http://blog.gastown.biz/">Kevin Hiebert</a>,
 				<a href="http://mathiasjakobsen.dk/">Mathias Jakobsen</a>,
+				<a href="http://about.me/abhisekp/">Abhisek Pattnaik</a>,
 				Roy Pitchon,
 				and Andrew Uhl.
 
