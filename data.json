@@ -113,6 +113,11 @@
       "howto": "http://windows.microsoft.com/en-us/windows/two-step-verification-faq"
     },
     {
+      "name": "Namecheap",
+      "url": "https://www.namecheap.com/myaccount/TwoFA/TwoFAProfileManagement.aspx",
+      "howto": "https://www.namecheap.com/support/knowledgebase/article.aspx/9253/45/how-to-two-factor-authentication"
+    },
+    {
       "name": "PayPal",
       "url": "https://www.paypal.com/us/cgi-bin/webscr?cmd=_security-key",
       "howto": "http://www.techhive.com/article/2058327/keep-your-paypal-account-safer-with-two-factor-authentication.html"
