@@ -19,6 +19,21 @@
       "url": "https://secure.bankofamerica.com/adminenrollments/safepass/manageSafepass.go"
     },
     {
+      "name": "Battle.net",
+      "url": "https://battle.net/account/management/authenticator.html",
+      "howto": "https://battle.net/support/en/article/adding-and-removing-authenticators"
+    },
+    {
+      "name": "BIPS",
+      "info": "https://bips.me/security",
+      "url": "https://bips.me/account/security"
+    },
+    {
+      "name": "Bitstamp",
+      "url": "https://www.bitstamp.net/account/security/two-factor-authentication/",
+      "howto": "https://www.bitstamp.net/article/update-bitstamp-adds-support-two-factor-authentica/"
+    },
+    {
       "name": "Blockchain.info",
       "url": "https://blockchain.info/wallet/",
       "howto": "http://www.bitcoiniacs.com/what-is-bitcoin/secure-blockchain-wallet/"
@@ -38,8 +53,17 @@
       "howto": "http://www.schwab.com/public/schwab/nn/legal_compliance/schwabsafe/your_questions_answered"
     },
     {
+      "name": "CloudFlare",
+      "howto": "https://support.cloudflare.com/hc/en-us/articles/200167866-What-is-Authy-2-Factor-Authentication-",
+      "url": "https://www.cloudflare.com/my-account"
+    },
+    {
       "name": "Coinbase",
       "url": "https://coinbase.com/account?highlight=phone&r=5150e82a9e19b7f80c000003"
+    },
+    {
+      "name": "Coinkite",
+      "url": "https://coinkite.com/settings/pws"
     },
     {
       "name": "Dashlane",
@@ -74,6 +98,10 @@
       "howto": "http://blog.evernote.com/blog/2013/10/04/two-step-verification-available-to-all-users/"
     },
     {
+      "name": "E*TRADE",
+      "url": "https://us.etrade.com/e/t/accounts/managesecuritytokens"
+    },
+    {
       "name": "Facebook",
       "howto": "https://www.facebook.com/note.php?note_id=10150172618258920",
       "url": "https://www.facebook.com/settings?tab=security"
@@ -99,6 +127,11 @@
       "howto": "https://help.hootsuite.com/entries/22527304-Managing-Google-Authenticator"
     },
     {
+      "name": "Keeper",
+      "howto": "https://keepersecurity.com/support/faq#faq25037",
+      "url": "https://keepersecurity.com/vault/"
+    },
+    {
       "name": "LastPass",
       "howto": "http://helpdesk.lastpass.com/security-options/google-authenticator/"
     },
@@ -113,9 +146,19 @@
       "info": "https://secure.logmein.com/products/free/security.aspx"
     },
     {
+      "name": "Mailchimp",
+      "howto": "http://kb.mailchimp.com/article/what-is-alterego",
+      "url": " https://us2.admin.mailchimp.com/account/profile/"
+    },
+    {
       "name": "Microsoft",
       "url": "https://account.live.com/Proofs/Manage",
       "howto": "http://windows.microsoft.com/en-us/windows/two-step-verification-faq"
+    },
+    {
+      "name": "Mt.Gox",
+      "howto": "https://support.mtgox.com/entries/21743327-Security",
+      "url": "https://www.mtgox.com/security"
     },
     {
       "name": "Namecheap",
@@ -126,6 +169,10 @@
       "name": "PayPal",
       "url": "https://www.paypal.com/us/cgi-bin/webscr?cmd=_security-key",
       "howto": "http://www.techhive.com/article/2058327/keep-your-paypal-account-safer-with-two-factor-authentication.html"
+    },
+    {
+      "name": "SendLoop",
+      "howto": "http://app.sendloop.com/help/article/account-003/how-can-i-make-my-account-more-secure"
     },
     {
       "name": "Steam",
@@ -142,6 +189,10 @@
       "url": "https://login.teamviewer.com/"
     },
     {
+      "name": "Trion Worlds (Rift)",
+      "url": "https://rift.trionworlds.com/account/security/security-flow"
+    },
+    {
       "name": "Twitter",
       "url": "https://blog.twitter.com/2013/getting-started-with-login-verification",
       "howto": "https://twitter.com/account/settings"
@@ -152,8 +203,13 @@
       "howto": "https://www.usaa.com/inet/pages/security_mobile_devices"
     },
     {
-      "name": "WordPress",
+      "name": "WordPress (external blog)",
       "url": "http://wordpress.org/extend/plugins/google-authenticator/"
+    },
+    {
+      "name": "WordPress.com",
+      "url": "https://wordpress.com/settings/security/",
+      "howto": "http://en.support.wordpress.com/security/two-step-authentication/"
     },
     {
       "name": "Yahoo",
