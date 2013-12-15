@@ -29,6 +29,11 @@
       "url": "https://bips.me/account/security"
     },
     {
+      "name": "Bitpay",
+      "url": "https://bitpay.com/merchant-login",
+      "howto": "http://blog.bitpay.com/2013/01/bitpay-adds-google-authenticator-seven.html"
+    },
+    {
       "name": "Bitstamp",
       "url": "https://www.bitstamp.net/account/security/two-factor-authentication/",
       "howto": "https://www.bitstamp.net/article/update-bitstamp-adds-support-two-factor-authentica/"
