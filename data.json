@@ -203,6 +203,10 @@
       "howto": "https://www.usaa.com/inet/pages/security_mobile_devices"
     },
     {
+      "name": "WHMCS",
+      "howto": "https://www.whmcs.com/two-factor/"
+    },
+    {
       "name": "WordPress (external blog)",
       "url": "http://wordpress.org/extend/plugins/google-authenticator/"
     },
