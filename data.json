@@ -58,6 +58,10 @@
       "howto": "http://www.schwab.com/public/schwab/nn/legal_compliance/schwabsafe/your_questions_answered"
     },
     {
+      "name": "Citibank",
+      "howto": "http://citibank.in/citi-nri/customer-service/faq/two-factor-authentication.htm"
+    },
+    {
       "name": "CloudFlare",
       "howto": "https://support.cloudflare.com/hc/en-us/articles/200167866-What-is-Authy-2-Factor-Authentication-",
       "url": "https://www.cloudflare.com/my-account"
