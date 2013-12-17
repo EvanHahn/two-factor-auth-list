@@ -62,21 +62,8 @@ header .logo h1 {
 	;
 }
 
-header .authors, footer {
-	padding: .75em 0;
-	font-size: 12pt;
-	line-height: 1.5em;
-	color: #666;
-	background-color: #f3f0f5;
-}
-
-header .authors a, footer a {
-	color: #666;
-	border-bottom: 1px solid #bbb;
-}
-
 header .description {
-	padding-top: 1em;
+	padding: 1em 0;
 	font-size: 16pt;
 	line-height: 1.5em;
 }
@@ -119,4 +106,27 @@ header .description {
 
 #service-list li a:before {
 	content: '\2022';
+}
+
+/* footer */
+
+footer {
+	padding: .75em 0;
+	font-size: 12pt;
+	line-height: 1.5em;
+	color: #666;
+	background-color: #f3f0f5;
+}
+
+footer p {
+	margin-top: 1em;
+}
+
+footer p:first-child {
+	margin-top: 0;
+}
+
+footer a {
+	color: #666;
+	border-bottom: 1px solid #bbb;
 }

@@ -34,29 +34,6 @@ header('X-UA-Compatible: IE=edge');
 		</div>
 	</div>
 
-	<div class="authors">
-		<div class="container">
-
-			<p>
-
-				lovingly made by <a href="http://evanhahn.com">Evan Hahn</a> with contributions from
-
-				<a href="http://twitter.com/_MattDolan">Matt Dolan</a>,
-				<a href="http://williamella.com/">Billy Ella</a>,
-				<a href="http://www.linkedin.com/pub/russ-fink/38/401/97b/">Russ Fink</a>,
-				<a href="http://blog.gastown.biz/">Kevin Hiebert</a>,
-				<a href="http://mathiasjakobsen.dk/">Mathias Jakobsen</a>,
-				<a href="https://twitter.com/jacobamunch">Jacob Munch</a>,
-				<a href="http://about.me/abhisekp/">Abhisek Pattnaik</a>,
-				Roy Pitchon,
-				Andrew Uhl,
-				and <a href="http://physicianfamily.com/">Physician Family Financial Advisors</a>.
-
-			❤</p>
-
-		</div>
-	</div>
-
 	<div class="description">
 		<div class="container">
 
@@ -96,6 +73,23 @@ header('X-UA-Compatible: IE=edge');
 
 <footer>
 	<div class="container">
+
+		<p>
+
+			Lovingly made by <a href="http://evanhahn.com">Evan Hahn</a> with contributions from
+
+			<a href="http://twitter.com/_MattDolan">Matt Dolan</a>,
+			<a href="http://williamella.com/">Billy Ella</a>,
+			<a href="http://www.linkedin.com/pub/russ-fink/38/401/97b/">Russ Fink</a>,
+			<a href="http://blog.gastown.biz/">Kevin Hiebert</a>,
+			<a href="http://mathiasjakobsen.dk/">Mathias Jakobsen</a>,
+			<a href="https://twitter.com/jacobamunch">Jacob Munch</a>,
+			<a href="http://about.me/abhisekp/">Abhisek Pattnaik</a>,
+			Roy Pitchon,
+			Andrew Uhl,
+			and <a href="http://physicianfamily.com/">Physician Family Financial Advisors</a>.
+
+		&#x2764;</p>
 
 		<p>Want to add a website? <a href="mailto:me@evanhahn.com">Send me an email</a> or <a href="https://github.com/EvanHahn/two-factor-auth-list/edit/master/data.json">send a pull request on GitHub</a>. I'll credit you and the internet will love you forever.</p>
 
