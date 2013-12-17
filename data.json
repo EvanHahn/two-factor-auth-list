@@ -122,6 +122,11 @@
       "url": "https://github.com/settings/two_factor_authentication/intro"
     },
     {
+      "name": "GoDaddy",
+      "howto": "http://support.godaddy.com/help/article/7502/enabling-twostep-authentication",
+      "url": "http://mya.godaddy.com/default.aspx?prog_id=GoDaddy"
+    },
+    {
       "name": "Google",
       "url": "http://accounts.google.com/SmsAuthConfig",
       "howto": "https://support.google.com/accounts/answer/185839?hl=en&topic=1056283&ctx=topic",
