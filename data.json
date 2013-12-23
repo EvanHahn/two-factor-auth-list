@@ -155,6 +155,10 @@
       "url": "https://www.linkedin.com/settings/"
     },
     {
+      "name": "LocalBitcoins",
+      "url" : "https://localbitcoins.com/accounts/profile/#toc2"
+    },
+    {
       "name": "LogMeIn",
       "url": "https://accounts.logme.in/login.aspx",
       "info": "https://secure.logmein.com/products/free/security.aspx"
