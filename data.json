@@ -155,6 +155,11 @@
       "url": "https://www.linkedin.com/settings/"
     },
     {
+      "name": "Linode",
+      "url": "https://manager.linode.com/",
+      "howto": "https://library.linode.com/linode-manager-security#sph_two-factor-authentication"
+    },
+    {
       "name": "LocalBitcoins",
       "url" : "https://localbitcoins.com/accounts/profile/#toc2"
     },
