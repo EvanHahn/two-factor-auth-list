@@ -78,8 +78,6 @@ header .description {
 
 /* service list */
 
-#service-list {}
-
 #service-list li {
 	display: block;
 	padding: 1em;
