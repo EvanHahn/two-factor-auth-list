@@ -21,6 +21,8 @@ to deploy this, just put this folder wherever you want to serve it from. it shou
 
 *"why php??"*, you cry. get over it, *nerd*
 
+*"why isn't this minified??"*, you cry. *"why isn't it a static page?"* look at how damn simple this stuff is. i don't need your fancy *build scripts*. i receive the world in the raw
+
 license
 -------
 
