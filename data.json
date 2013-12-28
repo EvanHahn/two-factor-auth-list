@@ -198,6 +198,10 @@
       "howto": "https://www.namecheap.com/support/knowledgebase/article.aspx/9253/45/how-to-two-factor-authentication"
     },
     {
+      "name": "Office 365",
+      "howto": "http://technet.microsoft.com/en-us/library/dn383636.aspx"
+    },
+    {
       "name": "PayPal",
       "url": "https://www.paypal.com/us/cgi-bin/webscr?cmd=_security-key",
       "howto": "http://www.techhive.com/article/2058327/keep-your-paypal-account-safer-with-two-factor-authentication.html"
@@ -231,6 +235,11 @@
     {
       "name": "Trion Worlds (Rift)",
       "url": "https://rift.trionworlds.com/account/security/security-flow"
+    },
+    {
+      "name": "Twilio",
+      "url": "https://www.twilio.com/user/account/settings",
+      "howto": "https://www.twilio.com/help/faq/twilio-basics/what-happens-when-i-enable-two-factor-authentication"
     },
     {
       "name": "Twitter",
