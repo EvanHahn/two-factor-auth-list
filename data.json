@@ -141,6 +141,10 @@
       "howto": "https://help.hootsuite.com/entries/22527304-Managing-Google-Authenticator"
     },
     {
+      "name": "Joomla",
+      "howto": "http://www.chandank.com/cms/joomla/joomla-3-2-upgrade-and-secure-with-two-factor-authentication"
+    },
+    {
       "name": "Keeper",
       "howto": "https://keepersecurity.com/support/faq#faq25037",
       "url": "https://keepersecurity.com/vault/"
