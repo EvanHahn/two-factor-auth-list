@@ -1,7 +1,7 @@
 <?php
 
 // security headers
-$csp = "default-src none; style-src 'self'";
+$csp = "default-src none;style-src 'self'";
 header('Content-Security-Policy: ' . $csp);
 header('X-Content-Security-Policy: ' . $csp);
 header('X-WebKit-CSP: ' . $csp);
