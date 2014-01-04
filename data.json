@@ -15,6 +15,10 @@
       "howto": "https://support.apple.com/kb/HT5570"
     },
     {
+      "name": "aTech Media",
+      "url": "https://identity.atechmedia.com/2factor"
+    },
+    {
       "name": "Bank of America",
       "url": "https://secure.bankofamerica.com/adminenrollments/safepass/manageSafepass.go"
     },
