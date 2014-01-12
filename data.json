@@ -124,6 +124,11 @@
       "url": "https://www.facebook.com/settings?tab=security"
     },
     {
+      "name": "Fidelity",
+      "url": "https://accountmaint.fidelity.com/ftgw/Profile/action/lp?yplanding",
+      "info": "https://www.fidelity.com/security/how-fidelity-keeps-you-safe"
+    },
+    {
       "name": "Gandi.net",
       "url": "https://www.gandi.net/admin/account/change_password",
       "howto": "http://wiki.gandi.net/en/contacts/login/2-factor-activation"
