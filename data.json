@@ -28,6 +28,11 @@
       "howto": "https://battle.net/support/en/article/adding-and-removing-authenticators"
     },
     {
+      "name": "Beanstalk",
+      "url": "https://<username>.beanstalkapp.com/two_factor_auth",
+      "howto": "http://blog.cloud66.com/post/46831807237/two-factor-authentication-for-your-accounts"
+    },
+    {
       "name": "BIPS",
       "info": "https://bips.me/security",
       "url": "https://bips.me/account/security"
