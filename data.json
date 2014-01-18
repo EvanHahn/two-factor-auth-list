@@ -219,6 +219,11 @@
       "howto": "http://technet.microsoft.com/en-us/library/dn383636.aspx"
     },
     {
+      "name": "Origin (EA)",
+      "url": "https://account.origin.com/cp-ui/security/index",
+      "howto": "http://help.ea.com/en/article/origin-login-verification-information/"
+    },
+    {
       "name": "PayPal",
       "url": "https://www.paypal.com/us/cgi-bin/webscr?cmd=_security-key",
       "howto": "http://www.techhive.com/article/2058327/keep-your-paypal-account-safer-with-two-factor-authentication.html"
