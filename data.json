@@ -220,6 +220,11 @@
       "howto": "https://www.namecheap.com/support/knowledgebase/article.aspx/9253/45/how-to-two-factor-authentication"
     },
     {
+      "name": "Norton",
+      "url": "https://login.norton.com/sso/embedded/trustedVerification",
+      "info": "https://login.norton.com/sso/embedded/learn2fa"
+    },
+    {
       "name": "Office 365",
       "howto": "http://technet.microsoft.com/en-us/library/dn383636.aspx"
     },
