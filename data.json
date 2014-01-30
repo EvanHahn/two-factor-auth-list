@@ -91,6 +91,11 @@
       "howto": "https://www.digitalocean.com/blog_posts/introducing-two-factor-authentication"
     },
     {
+      "name": "DNS Made Easy",
+      "url": "https://cp.dnsmadeeasy.com/security/user/multifactor",
+      "howto": "http://help.dnsmadeeasy.com/administrative/enable-two-factor-authentication/"
+    },
+    {
       "name": "DreamHost",
       "howto": "http://wiki.dreamhost.com/Enabling_Multifactor_Authentication"
     },
