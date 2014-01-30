@@ -218,6 +218,10 @@
       "howto": "http://windows.microsoft.com/en-us/windows/two-step-verification-faq"
     },
     {
+      "name": "MongoHQ",
+      "howto": "http://docs.mongohq.com/security/mongohq-two-factor-authentication.html"
+    },
+    {
       "name": "Mt.Gox",
       "howto": "https://support.mtgox.com/entries/21743327-Security",
       "url": "https://www.mtgox.com/security"
