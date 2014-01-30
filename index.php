@@ -86,6 +86,7 @@ header('X-UA-Compatible: IE=edge');
 			<a href="https://twitter.com/jacobamunch">Jacob Munch</a>,
 			<a href="http://about.me/abhisekp/">Abhisek Pattnaik</a>,
 			Roy Pitchon,
+			Reuben Raveendran,
 			Andrew Uhl,
 			and <a href="http://physicianfamily.com/">Physician Family Financial Advisors</a>.
 
