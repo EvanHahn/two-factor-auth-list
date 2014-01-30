@@ -158,6 +158,14 @@
       "url": "https://www.humblebundle.com/user/settings"
     },
     {
+      "name": "Jamroom",
+      "url": "http://www.jamroom.net"
+    },
+    {
+      "name": "Jamroom Module",
+      "url": "http://www.jamroom.net/the-jamroom-network/networkmarket/3/two-factor-authentication"
+    },
+    {
       "name": "Joomla",
       "howto": "http://www.chandank.com/cms/joomla/joomla-3-2-upgrade-and-secure-with-two-factor-authentication"
     },
