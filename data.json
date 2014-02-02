@@ -246,6 +246,11 @@
       "howto": "http://help.ea.com/en/article/origin-login-verification-information/"
     },
     {
+      "name": "PayPal",
+      "url": "https://www.paypal.com/us/cgi-bin/webscr?cmd=_setup-security-key",
+      "howto": "https://www.paypal.com/us/cgi-bin/webscr?cmd=_security-key"
+    },
+    {
       "name": "Persowna",
       "url": "https://persowna.net/"
     },
