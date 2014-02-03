@@ -85,6 +85,7 @@ $description = "A big list of services that support two-factor authentication to
 			<a href="http://www.linkedin.com/pub/russ-fink/38/401/97b/">Russ Fink</a>,
 			<a href="http://blog.gastown.biz/">Kevin Hiebert</a>,
 			<a href="http://mathiasjakobsen.dk/">Mathias Jakobsen</a>,
+			<a href="http://karbassi.com/">Ali Karbassi</a>,
 			<a href="https://twitter.com/HugeEyebrows">Zach Kirk</a>,
 			<a href="https://twitter.com/jacobamunch">Jacob Munch</a>,
 			<a href="http://about.me/abhisekp/">Abhisek Pattnaik</a>,
