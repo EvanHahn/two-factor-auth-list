@@ -12,6 +12,9 @@ header_remove('X-Powered-By');
 header('Content-Type: text/html; charset=utf-8');
 header('X-UA-Compatible: IE=edge');
 
+// some variables
+$description = "A big list of services that support two-factor authentication to make your accounts more secure.";
+
 ?>
 
 <!DOCTYPE html>
@@ -23,10 +26,14 @@ header('X-UA-Compatible: IE=edge');
 <title>two-factor authentication list</title>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
+<meta name="description" content="<?php echo $description ?>">
+<meta name="keywords" content="two-factor,authentication,security,passwords,2FA">
+
 <meta property="og:title" content="Two-factor authentication list">
+<meta property="og:description" content="<?php echo $description ?>">
+<meta property="og:image" content="http://evanhahn.com/tape/two-factor-auth-list/2.gif">
 <meta property="og:type" content="website">
 <meta property="og:url" content="http://evanhahn.com/tape/two-factor-auth-list/">
-<meta property="og:image" content="http://evanhahn.com/tape/two-factor-auth-list/2.gif">
 
 </head>
 <body>
