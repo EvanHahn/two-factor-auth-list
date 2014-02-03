@@ -46,9 +46,9 @@ $description = "A big list of services that support two-factor authentication to
 		</div>
 	</div>
 
-	<div class="description container">
-		<p>Two-factor authentication requires an additional step in addition to entering your password, usually by sending a message to your mobile phone or using an app in your smartphone. It'll make you more secure.</p>
-	</div>
+	<p class="description container">
+		Two-factor authentication requires an additional step in addition to entering your password, usually by sending a message to your mobile phone or using an app in your smartphone. It'll make you more secure.
+	</p>
 
 </header>
 
