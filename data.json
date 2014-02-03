@@ -114,6 +114,11 @@
       "howto": "http://blog.easydns.org/2013/11/25/10-amazingly-useful-things-you-didnt-know-you-could-do-for-your-domains-with-easydns/#1"
     },
     {
+      "name": "Etsy",
+      "url": "https://www.etsy.com/your/account/security",
+      "howto": "https://www.etsy.com/help/article/3335"
+    },
+    {
       "name": "Evernote",
       "url": "https://www.evernote.com/secure/SecuritySettings.action",
       "howto": "http://blog.evernote.com/blog/2013/10/04/two-step-verification-available-to-all-users/"

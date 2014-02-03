@@ -83,6 +83,7 @@ header('X-UA-Compatible: IE=edge');
 			<a href="http://www.linkedin.com/pub/russ-fink/38/401/97b/">Russ Fink</a>,
 			<a href="http://blog.gastown.biz/">Kevin Hiebert</a>,
 			<a href="http://mathiasjakobsen.dk/">Mathias Jakobsen</a>,
+			<a href="https://twitter.com/HugeEyebrows">Zach Kirk</a>,
 			<a href="https://twitter.com/jacobamunch">Jacob Munch</a>,
 			<a href="http://about.me/abhisekp/">Abhisek Pattnaik</a>,
 			Roy Pitchon,
