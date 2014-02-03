@@ -102,10 +102,6 @@ header .description {
 	color: #666;
 }
 
-#service-list li a:before {
-	content: '\2022';
-}
-
 /* footer */
 
 footer {

@@ -34,12 +34,8 @@ header('X-UA-Compatible: IE=edge');
 		</div>
 	</div>
 
-	<div class="description">
-		<div class="container">
-
-			<p>Two-factor authentication requires an additional step in addition to entering your password, usually by sending a message to your mobile phone or using an app in your smartphone. It'll make you more secure.</p>
-
-		</div>
+	<div class="description container">
+		<p>Two-factor authentication requires an additional step in addition to entering your password, usually by sending a message to your mobile phone or using an app in your smartphone. It'll make you more secure.</p>
 	</div>
 
 </header>
@@ -48,26 +44,20 @@ header('X-UA-Compatible: IE=edge');
 
 <ul id="service-list" class="container">
 
-	<?php foreach ($services as &$service): ?>
-		<li>
-			<h1><?php echo $service->name ?></h1>
-			<?php if (isset($service->url)): ?>
-				<a title="Enable it" href="<?php echo $service->url ?>" target="_blank">
-					Enable it
-				</a>
-			<?php endif ?>
-			<?php if (isset($service->howto)): ?>
-				<a title="How-to" href="<?php echo $service->howto ?>" target="_blank">
-					How-to
-				</a>
-			<?php endif ?>
-			<?php if (isset($service->info)): ?>
-				<a title="Info" href="<?php echo $service->info ?>" target="_blank">
-					Info
-				</a>
-			<?php endif ?>
-		</li>
-	<?php endforeach ?>
+<?php foreach ($services as &$service): ?>
+	<li>
+		<h1><?php echo $service->name ?></h1>
+		<?php if (isset($service->url)): ?>
+			<a title="Enable it" href="<?php echo $service->url ?>" target="_blank">Enable it</a>
+		<?php endif ?>
+		<?php if (isset($service->howto)): ?>
+			<a title="How-to" href="<?php echo $service->howto ?>" target="_blank">How-to</a>
+		<?php endif ?>
+		<?php if (isset($service->info)): ?>
+			<a title="Info" href="<?php echo $service->info ?>" target="_blank">Info</a>
+		<?php endif ?>
+	</li>
+<?php endforeach ?>
 
 </ul>
 
