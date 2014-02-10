@@ -5,6 +5,11 @@
       "url": "http://support.aha.io/entries/36821618-Two-factor-authentication-2FA-user-set-up"
     },
     {
+      "name": "Ally Bank",
+      "url": "https://secure.ally.com/allyWebClient/login.do",
+      "howto": "https://www.ally.com/help/bank/login.html"
+    },
+    {
       "name": "Amazon Web Services",
       "url": "http://aws.amazon.com/mfa/virtual_mfa_applications/?tag=gmgamzn-20"
     },
