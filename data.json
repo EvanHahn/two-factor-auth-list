@@ -163,6 +163,11 @@
       "info": "http://www.google.com/landing/2step/"
     },
     {
+      "name": "Guild Wars 2",
+      "url": "https://account.guildwars2.com/",
+      "howto": "https://help.guildwars2.com/entries/27626157-Two-Factor-Authentication"
+    },
+    {
       "name": "HootSuite",
       "howto": "https://help.hootsuite.com/entries/22527304-Managing-Google-Authenticator"
     },
