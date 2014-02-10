@@ -18,7 +18,6 @@ $description = 'A big list of services that support two-factor authentication to
 $logo_image = 'http://evanhahn.com/2fa/2.gif';
 
 ?>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
