@@ -15,7 +15,7 @@ header('X-UA-Compatible: IE=edge');
 // some variables
 $title = 'Two-factor authentication list';
 $description = 'A big list of services that support two-factor authentication to make your accounts more secure.';
-$logo_image = 'http://evanhahn.com/tape/two-factor-auth-list/2.gif';
+$logo_image = 'http://evanhahn.com/2fa/2.gif';
 
 ?>
 
@@ -35,7 +35,7 @@ $logo_image = 'http://evanhahn.com/tape/two-factor-auth-list/2.gif';
 <meta property="og:description" content="<?php echo $description ?>">
 <meta property="og:image" content="<?php echo $logo_image ?>">
 <meta property="og:type" content="website">
-<meta property="og:url" content="http://evanhahn.com/tape/two-factor-auth-list/">
+<meta property="og:url" content="http://evanhahn.com/2fa">
 
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="@EvanHahn">
