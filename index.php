@@ -13,7 +13,9 @@ header('Content-Type: text/html; charset=utf-8');
 header('X-UA-Compatible: IE=edge');
 
 // some variables
-$description = "A big list of services that support two-factor authentication to make your accounts more secure.";
+$title = 'Two-factor authentication list';
+$description = 'A big list of services that support two-factor authentication to make your accounts more secure.';
+$logo_image = 'http://evanhahn.com/tape/two-factor-auth-list/2.gif';
 
 ?>
 
@@ -23,17 +25,25 @@ $description = "A big list of services that support two-factor authentication to
 
 <meta charset="utf-8">
 <link rel="stylesheet" href="the.css">
-<title>two-factor authentication list</title>
+<title><?php echo strtolower($title) ?></title>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
 <meta name="description" content="<?php echo $description ?>">
 <meta name="keywords" content="two-factor,authentication,security,passwords,2FA">
 
-<meta property="og:title" content="Two-factor authentication list">
+<meta property="og:title" content="<?php echo $title ?>">
 <meta property="og:description" content="<?php echo $description ?>">
-<meta property="og:image" content="http://evanhahn.com/tape/two-factor-auth-list/2.gif">
+<meta property="og:image" content="<?php echo $logo_image ?>">
 <meta property="og:type" content="website">
 <meta property="og:url" content="http://evanhahn.com/tape/two-factor-auth-list/">
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@EvanHahn">
+<meta name="twitter:title" content="<?php echo $title ?>">
+<meta name="twitter:description" content="<?php echo $description ?>">
+<meta name="twitter:creator" content="@EvanHahn">
+<meta name="twitter:image:src" content="<?php echo $logo_image ?>">
+<meta name="twitter:domain" content="evanhahn.com">
 
 </head>
 <body>
@@ -42,7 +52,7 @@ $description = "A big list of services that support two-factor authentication to
 
 	<div class="logo">
 		<div class="container">
-			<h1>two-factor authentication list</h1>
+			<h1><?php echo $title ?></h1>
 		</div>
 	</div>
 
