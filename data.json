@@ -9,6 +9,11 @@
       "url": "http://aws.amazon.com/mfa/virtual_mfa_applications/?tag=gmgamzn-20"
     },
     {
+        "name": "Apple",
+        "url": "https://appleid.apple.com/",
+        "howto": "https://support.apple.com/kb/HT5570"
+    },
+    {
       "name": "App.net",
       "url": "https://account.app.net/settings/security/",
       "howto": "http://blog.app.net/2013/03/13/added-security-for-your-app-net-account/"
