@@ -32,6 +32,10 @@
       "url": "https://secure.bankofamerica.com/adminenrollments/safepass/manageSafepass.go"
     },
     {
+      "name": "Basecamp",
+      "howto": "https://basecamp.com/help/guides/you/phone-verification"
+    },
+    {
       "name": "Battle.net",
       "url": "https://battle.net/account/management/authenticator.html",
       "howto": "https://battle.net/support/en/article/adding-and-removing-authenticators"
