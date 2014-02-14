@@ -14,14 +14,14 @@
       "url": "http://aws.amazon.com/mfa/virtual_mfa_applications/?tag=gmgamzn-20"
     },
     {
-        "name": "Apple",
-        "url": "https://appleid.apple.com/",
-        "howto": "https://support.apple.com/kb/HT5570"
-    },
-    {
       "name": "App.net",
       "url": "https://account.app.net/settings/security/",
       "howto": "http://blog.app.net/2013/03/13/added-security-for-your-app-net-account/"
+    },
+    {
+        "name": "Apple",
+        "url": "https://appleid.apple.com/",
+        "howto": "https://support.apple.com/kb/HT5570"
     },
     {
       "name": "aTech Media",
@@ -127,6 +127,10 @@
       "url": "http://drupal.org/project/ga_login"
     },
     {
+      "name": "E*TRADE",
+      "url": "https://us.etrade.com/e/t/accounts/managesecuritytokens"
+    },
+    {
       "name": "easyDNS",
       "url": "https://cp.easydns.com/manage/security/",
       "howto": "http://blog.easydns.org/2013/11/25/10-amazingly-useful-things-you-didnt-know-you-could-do-for-your-domains-with-easydns/#1"
@@ -140,10 +144,6 @@
       "name": "Evernote",
       "url": "https://www.evernote.com/secure/SecuritySettings.action",
       "howto": "http://blog.evernote.com/blog/2013/10/04/two-step-verification-available-to-all-users/"
-    },
-    {
-      "name": "E*TRADE",
-      "url": "https://us.etrade.com/e/t/accounts/managesecuritytokens"
     },
     {
       "name": "Facebook",
