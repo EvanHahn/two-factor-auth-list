@@ -255,6 +255,12 @@
       "url": "https://www.mtgox.com/security"
     },
     {
+      "name": "Name.com",
+      "url": "https://www.name.com/services/namesafe/manage",
+      "howto": "http://support.name.com/forums/20778138-Account-security-and-NameSafe",
+      "info": "http://support.name.com/entries/21584262-What-is-NameSafe-"
+    },
+    {
       "name": "Namecheap",
       "url": "https://www.namecheap.com/myaccount/TwoFA/TwoFAProfileManagement.aspx",
       "howto": "https://www.namecheap.com/support/knowledgebase/article.aspx/9253/45/how-to-two-factor-authentication"
