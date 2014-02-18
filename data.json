@@ -109,9 +109,17 @@
       "howto": "https://www.digitalocean.com/blog_posts/introducing-two-factor-authentication"
     },
     {
+      "name": "Directnic",
+      "url": "https://directnic.com/knowledge/article/137:how+do+i+set+up+two-factor+authentication%3F"
+    },
+    {
       "name": "DNS Made Easy",
       "url": "https://cp.dnsmadeeasy.com/security/user/multifactor",
       "howto": "http://help.dnsmadeeasy.com/administrative/enable-two-factor-authentication/"
+    },
+    {
+      "name": "DNSimple",
+      "url": "http://blog.dnsimple.com/2012/08/protect-your-dnsimple-account-with-two-factor-authentication-from-authy/"
     },
     {
       "name": "DreamHost",
@@ -189,6 +197,10 @@
       "name": "Humble Bundle",
       "howto": "http://support.humblebundle.com/customer/portal/articles/1412106",
       "url": "https://www.humblebundle.com/user/settings"
+    },
+    {
+      "name": "iwantmyname",
+      "url": "https://iwantmyname.com/blog/2013/05/protect-your-domain-registrar-account-with-two-factor-authentication.html",
     },
     {
       "name": "Jamroom",
@@ -287,6 +299,10 @@
     {
       "name": "Persowna",
       "url": "https://persowna.net/"
+    },
+    {
+      "name": "Pobox",
+      "url": "http://www.pobox.com/helpspot/index.php?pg=kb.page&id=360"
     },
     {
       "name": "SendLoop",
