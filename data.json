@@ -114,6 +114,10 @@
       "howto": "http://help.dnsmadeeasy.com/administrative/enable-two-factor-authentication/"
     },
     {
+      "name": "DNSimple",
+      "url": "https://dnsimple.com/account/two_factor_auth"
+    },
+    {
       "name": "DreamHost",
       "howto": "http://wiki.dreamhost.com/Enabling_Multifactor_Authentication"
     },
