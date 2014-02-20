@@ -97,6 +97,7 @@ $logo_image = 'http://evanhahn.com/2fa/2.gif';
 			<a href="http://karbassi.com/">Ali Karbassi</a>,
 			<a href="http://dankim.org">Dan Kim</a>,
 			<a href="https://twitter.com/HugeEyebrows">Zach Kirk</a>,
+			<a href="https://konklone.com">Eric Mill</a>,
 			<a href="https://twitter.com/jacobamunch">Jacob Munch</a>,
 			<a href="http://about.me/abhisekp/">Abhisek Pattnaik</a>,
 			<a href="http://robpegoraro.com/">Rob Pegoraro</a>,
