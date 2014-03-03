@@ -156,7 +156,8 @@
     {
       "name": "Facebook",
       "howto": "https://www.facebook.com/note.php?note_id=10150172618258920",
-      "url": "https://www.facebook.com/settings?tab=security"
+      "url": "https://www.facebook.com/settings?tab=security",
+      "info": "http://andrew.kvalhe.im/how-to-set-up-google-authenticator-with-facebook/"
     },
     {
       "name": "Fidelity",
