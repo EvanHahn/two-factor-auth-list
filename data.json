@@ -79,6 +79,10 @@
       "info": "https://bufferapp.com/2step"
     },
     {
+      "name": "Buycraft",
+      "url": "https://server.buycraft.net/tfa"
+    },
+    {
       "name": "Charles Schwab",
       "howto": "http://www.schwab.com/public/schwab/nn/legal_compliance/schwabsafe/your_questions_answered"
     },
@@ -142,6 +146,11 @@
       "name": "easyDNS",
       "url": "https://cp.easydns.com/manage/security/",
       "howto": "http://blog.easydns.org/2013/11/25/10-amazingly-useful-things-you-didnt-know-you-could-do-for-your-domains-with-easydns/#1"
+    },
+    {
+      "name": "Enjin",
+      "url": "http://www.enjin.com/dashboard/settings/authy",
+      "howto": "http://support.enjin.com/hc/en-us/articles/201090770-2-Factor-Authentication-Authy-"
     },
     {
       "name": "Etsy",
@@ -308,6 +317,12 @@
     {
       "name": "Pobox",
       "url": "http://www.pobox.com/helpspot/index.php?pg=kb.page&id=360"
+    },
+    {
+      "name": "SecureSafe",
+      "howto": "http://www.securesafe.com/en/security/doublesec.html",
+      "url": "https://www.securesafe.com/apps/main.html#lang=en",
+      "info": "http://www.securesafe.com/en/faq/security.html"
     },
     {
       "name": "SendLoop",
