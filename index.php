@@ -110,7 +110,7 @@ function person($person) {
 		<?php
 
 		$count = count($contributors);
-		foreach ($contributors as $index => $contributor) {
+		foreach ($contributors as $index => &$contributor) {
 			person($contributor);
 			if ($index < ($count - 1))
 				echo ', ';
