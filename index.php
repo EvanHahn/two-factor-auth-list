@@ -61,7 +61,12 @@ $logo_image = 'http://evanhahn.com/2fa/2.gif';
 
 </header>
 
-<?php $services = json_decode(file_get_contents('./data.json'))->services ?>
+<?php
+$data = json_decode(file_get_contents('./data.json'));
+$services = $data->services;
+$author = $data->author;
+$contributors = $data->contributors;
+?>
 
 <ul id="service-list" class="container">
 
@@ -82,38 +87,46 @@ $logo_image = 'http://evanhahn.com/2fa/2.gif';
 
 </ul>
 
-<footer>
-	<div class="container">
+<?php
 
-		<p>
+function person($person) {
+	if (is_string($person)) {
+		echo $person;
+	} else {
+		echo "<a title=\"$person->name\" href=\"$person->url\">";
+		echo $person->name;
+		echo '</a>';
+	}
+}
 
-			Lovingly made by <a href="http://evanhahn.com">Evan Hahn</a> with contributions from
+?>
 
-			<a href="http://twitter.com/_MattDolan">Matt Dolan</a>,
-			<a href="http://williamella.com/">Billy Ella</a>,
-			<a href="http://www.linkedin.com/pub/russ-fink/38/401/97b/">Russ Fink</a>,
-			<a href="http://blog.gastown.biz/">Kevin Hiebert</a>,
-			<a href="http://mathiasjakobsen.dk/">Mathias Jakobsen</a>,
-			<a href="http://karbassi.com/">Ali Karbassi</a>,
-			<a href="http://dankim.org">Dan Kim</a>,
-			<a href="https://twitter.com/HugeEyebrows">Zach Kirk</a>,
-			<a href="https://konklone.com">Eric Mill</a>,
-			<a href="https://twitter.com/jacobamunch">Jacob Munch</a>,
-			<a href="http://about.me/abhisekp/">Abhisek Pattnaik</a>,
-			<a href="http://robpegoraro.com/">Rob Pegoraro</a>,
-			Roy Pitchon,
-			Reuben Raveendran,
-			Andrew Uhl,
-			and <a href="http://physicianfamily.com/">Physician Family Financial Advisors</a>.
+<footer><div class="container">
 
-		&#x2764;</p>
+	<p>
 
-		<p>Want to add a website? <a href="mailto:me@evanhahn.com">Send me an email</a> or <a href="https://github.com/EvanHahn/two-factor-auth-list/edit/master/data.json">send a pull request on GitHub</a>. I'll credit you and the internet will love you forever.</p>
+		Lovingly made by <?php person($author) ?> with contributions from
 
-		<p><a href="https://github.com/EvanHahn/two-factor-auth-list">Check this project out on GitHub</a>, too. There are pictures of fire.</p>
+		<?php
 
-	</div>
-</footer>
+		$count = count($contributors);
+		foreach ($contributors as $index => $contributor) {
+			person($contributor);
+			if ($index < ($count - 1))
+				echo ', ';
+			if ($index == ($count - 2))
+				echo 'and ';
+		}
+
+		?>. &#x2764;
+
+	</p>
+
+	<p>Want to add a website? <a href="mailto:me@evanhahn.com">Send me an email</a> or <a href="https://github.com/EvanHahn/two-factor-auth-list/edit/master/data.json">send a pull request on GitHub</a>. I'll credit you and the internet will love you forever.</p>
+
+	<p><a href="https://github.com/EvanHahn/two-factor-auth-list">Check this project out on GitHub</a>, too. There are pictures of fire.</p>
+
+</div></footer>
 
 </body>
 </html>
