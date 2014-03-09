@@ -17,11 +17,13 @@ anything you contribute will be licensed under the [unlicense](http://unlicense.
 deploying this
 --------------
 
-to deploy this, just put this folder wherever you want to serve it from. it should be on a php server, because it's written in php.
+to deploy this, just put this folder wherever you want to serve it from. optionally, you can speed things up with a static page:
+
+    $ php index.php > index.html
 
 *"why php??"*, you cry. get over it, *nerd*
 
-*"why isn't this minified??"*, you cry. *"why isn't it a static page?"* look at how damn simple this stuff is. i don't need your fancy *build scripts*. i receive the world in the raw
+this puppy is deliberately
 
 license
 -------
