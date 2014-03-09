@@ -50,6 +50,11 @@
       "url": "https://bips.me/account/security"
     },
     {
+      "name": "Bitcoin Central",
+      "howto": "https://bitcoin-central.net/page/help",
+      "url": "https://bitcoin-central.net/page/profile/security"
+    },
+    {
       "name": "Bitpay",
       "url": "https://bitpay.com/merchant-login",
       "howto": "http://blog.bitpay.com/2013/01/bitpay-adds-google-authenticator-seven.html"
@@ -406,6 +411,7 @@
     { "name": "Russ Fink", "url": "http://www.linkedin.com/pub/russ-fink/38/401/97b/" },
     { "name": "Kevin Hiebert", "url": "http://blog.gastown.biz/" },
     { "name": "Mathias Jakobsen", "url": "http://mathiasjakobsen.dk/" },
+    { "name": "Stephen Judge", "url": "http://www.stephen.ie" },
     { "name": "Ali Karbassi", "url": "http://karbassi.com/" },
     { "url": "http://dankim.org", "name": "Dan Kim" },
     { "url": "https://twitter.com/HugeEyebrows", "name": "Zach Kirk" },
