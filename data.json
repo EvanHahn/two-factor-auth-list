@@ -401,22 +401,22 @@
     "url": "http://evanhahn.com"
   },
   "contributors": [
-		{ "name": "Matt Dolan", "url": "http://twitter.com/_MattDolan" },
-		{ "name": "Billy Ella", "url": "http://williamella.com/" },
-		{ "name": "Russ Fink", "url": "http://www.linkedin.com/pub/russ-fink/38/401/97b/" },
+    { "name": "Matt Dolan", "url": "http://twitter.com/_MattDolan" },
+    { "name": "Billy Ella", "url": "http://williamella.com/" },
+    { "name": "Russ Fink", "url": "http://www.linkedin.com/pub/russ-fink/38/401/97b/" },
     { "name": "Kevin Hiebert", "url": "http://blog.gastown.biz/" },
     { "name": "Mathias Jakobsen", "url": "http://mathiasjakobsen.dk/" },
     { "name": "Ali Karbassi", "url": "http://karbassi.com/" },
-		{ "url": "http://dankim.org", "name": "Dan Kim" },
-		{ "url": "https://twitter.com/HugeEyebrows", "name": "Zach Kirk" },
-		{ "url": "https://konklone.com", "name": "Eric Mill" },
+    { "url": "http://dankim.org", "name": "Dan Kim" },
+    { "url": "https://twitter.com/HugeEyebrows", "name": "Zach Kirk" },
+    { "url": "https://konklone.com", "name": "Eric Mill" },
     { "url": "https://twitter.com/jacobamunch", "name": "Jacob Munch" },
     { "url": "http://about.me/abhisekp/", "name": "Abhisek Pattnaik" },
     { "url": "http://robpegoraro.com/", "name": "Rob Pegoraro" },
     { "url": "http://physicianfamily.com/", "name": "Physician Family Financial Advisors" },
-		"Roy Pitchon",
-		"Reuben Raveendran",
+    "Roy Pitchon",
+    "Reuben Raveendran",
     { "name": "Ray Schmtiz", "url": "http://rayschmitz.com" },
-		"Andrew Uhl"
+    "Andrew Uhl"
   ]
 }
