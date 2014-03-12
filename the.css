@@ -55,10 +55,23 @@ header .logo h1 {
 	;
 }
 
+header a {
+	color: #000;
+	border-bottom: 1px solid #f3f0f5;
+}
+
+header a:hover {
+	border-bottom-color: #000;
+}
+
 header .description {
-	padding: 1em 0;
+	margin-top: 1em;
 	font-size: 16pt;
 	line-height: 1.5em;
+}
+
+header .description:last-child {
+	margin-bottom: 1em;
 }
 
 @media screen and (min-width: 700px) {

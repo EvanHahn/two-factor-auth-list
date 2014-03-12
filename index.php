@@ -55,9 +55,13 @@ $logo_image = 'http://evanhahn.com/2fa/2.gif';
 		</div>
 	</div>
 
-	<p class="description container">
-		Two-factor authentication requires an additional step in addition to entering your password, usually by sending a message to your mobile phone or using an app in your smartphone. It'll make you more secure.
-	</p>
+	<div class="container">
+
+		<p class="description">
+			Two-factor authentication requires an additional step in addition to entering your password, usually by sending a message to your mobile phone or using an app in your smartphone. It'll make you more secure.
+		</p>
+
+	</div>
 
 </header>
 
