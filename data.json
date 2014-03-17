@@ -281,11 +281,6 @@
       "howto": "http://docs.mongohq.com/security/mongohq-two-factor-authentication.html"
     },
     {
-      "name": "Mt.Gox",
-      "howto": "https://support.mtgox.com/entries/21743327-Security",
-      "url": "https://www.mtgox.com/security"
-    },
-    {
       "name": "Name.com",
       "url": "https://www.name.com/services/namesafe/manage",
       "howto": "http://support.name.com/forums/20778138-Account-security-and-NameSafe",
