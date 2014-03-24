@@ -337,6 +337,10 @@
       "howto": "https://secure.ssa.gov/RIL/HpsView.do#question4"
     },
     {
+      "name": "Status.io",
+      "url": "https://status.io/user"
+    },
+    {
       "name": "Steam",
       "howto": "https://support.steampowered.com/kb_article.php?ref=4020-ALZM-5519"
     },
