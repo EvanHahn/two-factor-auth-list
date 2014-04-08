@@ -359,6 +359,11 @@
       "url": "https://rift.trionworlds.com/account/security/security-flow"
     },
     {
+      "name": "Tumblr",
+      "howto": "https://www.tumblr.com/docs/two_factor_auth",
+      "url": "https://www.tumblr.com/settings/account"
+    },
+    {
       "name": "Twilio",
       "url": "https://www.twilio.com/user/account/settings",
       "howto": "https://www.twilio.com/help/faq/twilio-basics/what-happens-when-i-enable-two-factor-authentication"
