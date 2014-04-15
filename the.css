@@ -64,14 +64,26 @@ header a:hover {
 	border-bottom-color: #000;
 }
 
-header .description {
+header p {
 	margin-top: 1em;
 	font-size: 16pt;
 	line-height: 1.5em;
 }
 
-header .description:last-child {
+header p:last-child {
 	margin-bottom: 1em;
+}
+
+header .other-site {
+  display: block;
+  margin: 1em 0;
+  padding: .5em 2em;
+  background-color: #fcc;
+}
+
+header .other-site:hover {
+  background-color: #fdd;
+  border-bottom-color: transparent;
 }
 
 @media screen and (min-width: 700px) {

@@ -57,9 +57,15 @@ $logo_image = 'http://evanhahn.com/2fa/2.gif';
 
 	<div class="container">
 
-		<p class="description">
+		<p>
 			Two-factor authentication requires an additional step in addition to entering your password, usually by sending a message to your mobile phone or using an app in your smartphone. It'll make you more secure.
 		</p>
+
+		<a class="other-site" href="http://twofactorauth.org">
+			<p>
+			The Two Factor Auth List is another excellent list. Honestly, it's probably better. Go check it out too!
+			</p>
+		</a>
 
 	</div>
 
