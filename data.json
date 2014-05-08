@@ -180,7 +180,8 @@
     {
       "name": "Fidelity",
       "url": "https://accountmaint.fidelity.com/ftgw/Profile/action/lp?yplanding",
-      "info": "https://www.fidelity.com/security/how-fidelity-keeps-you-safe"
+      "info": "https://www.fidelity.com/security/how-fidelity-keeps-you-safe",
+      "howto": "https://gist.github.com/dseese01/11100219#file-fidelity2factor-md"
     },
     {
       "name": "Gandi.net",
