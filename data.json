@@ -333,6 +333,10 @@
       "url": "http://www.pobox.com/helpspot/index.php?pg=kb.page&id=360"
     },
     {
+      "name": "SecSign",
+      "info": "https://www.secsign.com/security-portal/"
+    },
+    {
       "name": "SecureSafe",
       "howto": "http://www.securesafe.com/en/security/doublesec.html",
       "url": "https://www.securesafe.com/apps/main.html#lang=en",
