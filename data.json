@@ -184,6 +184,11 @@
       "howto": "https://gist.github.com/dseese01/11100219#file-fidelity2factor-md"
     },
     {
+      "name": "FoxVPN",
+      "howto": "https://www.foxvpn.net/help/enable-two-factor-authentication/",
+      "url": "https://www.foxvpn.net/manager"
+    },
+    {
       "name": "Gandi.net",
       "url": "https://www.gandi.net/admin/account/change_password",
       "howto": "http://wiki.gandi.net/en/contacts/login/2-factor-activation"
@@ -354,6 +359,11 @@
     {
       "name": "Social Security",
       "howto": "https://secure.ssa.gov/RIL/HpsView.do#question4"
+    },
+    {
+      "name": "SSLTrust",
+      "howto": "https://www.ssltrust.com.au/enable-two-factor-authentication.html",
+      "url": "https://www.ssltrust.com.au/manager/"
     },
     {
       "name": "Status.io",
