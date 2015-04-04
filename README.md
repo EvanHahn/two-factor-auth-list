@@ -23,8 +23,6 @@ to deploy this, just put this folder wherever you want to serve it from. optiona
 
 *"why php??"*, you cry. get over it, *nerd*
 
-this puppy is deliberately
-
 license
 -------
 
