@@ -333,6 +333,11 @@
       "url": "http://www.pobox.com/helpspot/index.php?pg=kb.page&id=360"
     },
     {
+      "name": "RelateIQ",
+      "howto": "https://help.relateiq.com/articles/set-up-2-step-verification-for-your-relateiq-account",
+      "info": "https://blog.relateiq.com/launched-two-factor-authentication/"
+    },
+    {
       "name": "SecSign",
       "info": "https://www.secsign.com/security-portal/"
     },
@@ -442,6 +447,7 @@
     "Reuben Raveendran",
     { "name": "Ray Schmtiz", "url": "http://rayschmitz.com" },
     "Andrew Uhl",
-    { "name": "Ryan Ralph", "url": "http://ryanralph.net" }
+    { "name": "Ryan Ralph", "url": "http://ryanralph.net" },
+    { "name": "David Brownman", "url": "http://davidbrownman.com"}
   ]
 }
