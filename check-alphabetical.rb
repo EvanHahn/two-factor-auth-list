@@ -1,3 +1,4 @@
+#!/usr/bin/env ruby
 require 'json'
 
 file_data = File.open('data.json', 'rb').read
