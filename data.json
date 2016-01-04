@@ -408,6 +408,10 @@
       "howto": "https://www.usaa.com/inet/pages/security_mobile_devices"
     },
     {
+      "name": "Vultr",
+      "url": "https://my.vultr.com/settings/twofactor/"
+    },
+    {
       "name": "WHMCS",
       "howto": "https://www.whmcs.com/two-factor/"
     },
