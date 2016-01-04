@@ -10,6 +10,11 @@
       "howto": "https://www.ally.com/help/bank/login.html"
     },
     {
+      "name": "Amazon",
+      "url": "https://www.amazon.com/a/settings/approval",
+      "howto": "https://www.amazon.com/gp/help/customer/display.html?nodeId=201962420"
+    },
+    {
       "name": "Amazon Web Services",
       "url": "http://aws.amazon.com/mfa/virtual_mfa_applications/?tag=gmgamzn-20"
     },
