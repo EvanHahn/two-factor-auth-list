@@ -430,6 +430,10 @@
       "howto": "http://en.support.wordpress.com/security/two-step-authentication/"
     },
     {
+      "name": "Xenforo",
+      "url": "https://xenforo.com/community/threads/two-step-verification-and-security-improvements.99881/"
+    },
+    {
       "name": "Yahoo",
       "url": "https://edit.yahoo.com/commchannel/sec_chal_manage"
     },
