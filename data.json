@@ -430,8 +430,8 @@
       "howto": "http://en.support.wordpress.com/security/two-step-authentication/"
     },
     {
-      "name": "XenForo",
-      "url": "http://xenforo.com/community/resources/freddyshouse-two-factor-authentication.1663/"
+      "name": "Xenforo",
+      "howto": "https://xenforo.com/community/threads/two-step-verification-and-security-improvements.99881/"
     },
     {
       "name": "Yahoo",
