@@ -326,6 +326,10 @@
       "info": "https://login.norton.com/sso/embedded/learn2fa"
     },
     {
+      "name": "npm",
+      "howto": "https://docs.npmjs.com/getting-started/using-two-factor-authentication"
+    },
+    {
       "name": "Office 365",
       "howto": "http://technet.microsoft.com/en-us/library/dn383636.aspx"
     },
