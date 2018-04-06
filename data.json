@@ -352,6 +352,11 @@
       "url": "http://www.pobox.com/helpspot/index.php?pg=kb.page&id=360"
     },
     {
+      "name": "proxycheck.io",
+      "url": "https://proxycheck.io/dashboard",
+      "howto": "https://proxycheck.io/blog/post/introducing-two-factor-authentication"
+    },
+    {
       "name": "RelateIQ",
       "howto": "https://help.relateiq.com/articles/set-up-2-step-verification-for-your-relateiq-account",
       "info": "https://blog.relateiq.com/launched-two-factor-authentication/"
