@@ -353,7 +353,8 @@
     },
     {
       "name": "proxycheck.io",
-      "url": "https://proxycheck.io/dashboard"
+      "url": "https://proxycheck.io/dashboard",
+      "howto": "https://proxycheck.io/blog/post/introducing-two-factor-authentication"
     },
     {
       "name": "RelateIQ",
