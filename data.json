@@ -119,6 +119,10 @@
       "url": "https://coinkite.com/settings/pws"
     },
     {
+      "name": "Condless",
+      "howto": "https://en.condless.com/2fa"
+    },
+    {
       "name": "Dashlane",
       "howto": "http://support.dashlane.com/customer/portal/articles/1099221-protect-your-account-using-two-factor-authentication"
     },
