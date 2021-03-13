@@ -24,7 +24,7 @@ $logo_image = 'https://evanhahn.com/2fa/2.png';
 
 <meta charset="utf-8">
 <link rel="stylesheet" href="the.css">
-<title><?php echo strtolower($title) ?></title>
+<title><?php echo $title ?></title>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
 <meta name="description" content="<?php echo $description ?>">
