@@ -15,7 +15,7 @@ header('X-UA-Compatible: IE=edge');
 // some variables
 $title = 'Two-factor authentication list';
 $description = 'A big list of services that support two-factor authentication to make your accounts more secure.';
-$logo_image = 'https://evanhahn.com/2fa/2.gif';
+$logo_image = 'https://evanhahn.com/2fa/2.png';
 
 ?>
 <!DOCTYPE html>
