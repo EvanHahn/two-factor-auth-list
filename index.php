@@ -61,9 +61,9 @@ $logo_image = 'https://evanhahn.com/2fa/2.png';
 			Two-factor authentication requires an additional step in addition to entering your password, usually by sending a message to your mobile phone or using an app in your smartphone. It'll make you more secure.
 		</p>
 
-		<a class="other-site" href="http://twofactorauth.org">
+		<a class="other-site" href="https://2fa.directory/">
 			<p>
-			The Two Factor Auth List is another excellent list. Honestly, it's probably better. Go check it out too!
+			See 2fa.directory for another more up-to-date list.
 			</p>
 		</a>
 
