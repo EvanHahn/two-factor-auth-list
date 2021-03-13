@@ -1,4 +1,3 @@
-contributing
-============
+# Contributing
 
-edit data.json and send a pull request. also, credit yourself at the bottom of data.json!
+Edit `data.json` and send a pull request. Make sure to credit yourself at the bottom of data.json!
