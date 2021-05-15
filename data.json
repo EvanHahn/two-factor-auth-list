@@ -80,10 +80,6 @@
       "howto": "https://support.box.com/hc/en-us/articles/200520048-How-to-Enable-2-Step-Login-Verification"
     },
     {
-      "name": "BTC-E",
-      "url": "https://btc-e.com/profile#security/2fa"
-    },
-    {
       "name": "Buffer",
       "url": "https://bufferapp.com/app/account/password",
       "info": "https://bufferapp.com/2step"
