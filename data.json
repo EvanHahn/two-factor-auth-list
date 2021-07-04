@@ -24,9 +24,9 @@
       "howto": "http://blog.app.net/2013/03/13/added-security-for-your-app-net-account/"
     },
     {
-        "name": "Apple",
-        "url": "https://appleid.apple.com/",
-        "howto": "https://support.apple.com/kb/HT5570"
+      "name": "Apple",
+      "url": "https://appleid.apple.com/",
+      "howto": "https://support.apple.com/kb/HT5570"
     },
     {
       "name": "aTech Media",
@@ -279,7 +279,7 @@
     },
     {
       "name": "LocalBitcoins",
-      "url" : "https://localbitcoins.com/accounts/profile/#toc2"
+      "url": "https://localbitcoins.com/accounts/profile/#toc2"
     },
     {
       "name": "LogMeIn",
@@ -464,7 +464,10 @@
   "contributors": [
     { "name": "Matt Dolan", "url": "http://twitter.com/_MattDolan" },
     { "name": "Billy Ella", "url": "http://williamella.com/" },
-    { "name": "Russ Fink", "url": "http://www.linkedin.com/pub/russ-fink/38/401/97b/" },
+    {
+      "name": "Russ Fink",
+      "url": "http://www.linkedin.com/pub/russ-fink/38/401/97b/"
+    },
     { "name": "Kevin Hiebert", "url": "http://blog.gastown.biz/" },
     { "name": "Mathias Jakobsen", "url": "http://mathiasjakobsen.dk/" },
     { "name": "Stephen Judge", "url": "http://www.stephen.ie" },
@@ -475,7 +478,10 @@
     { "url": "https://twitter.com/jacobamunch", "name": "Jacob Munch" },
     { "url": "http://about.me/abhisekp/", "name": "Abhisek Pattnaik" },
     { "url": "http://robpegoraro.com/", "name": "Rob Pegoraro" },
-    { "url": "http://physicianfamily.com/", "name": "Physician Family Financial Advisors" },
+    {
+      "url": "http://physicianfamily.com/",
+      "name": "Physician Family Financial Advisors"
+    },
     "Roy Pitchon",
     "Reuben Raveendran",
     { "name": "Ray Schmtiz", "url": "http://rayschmitz.com" },
