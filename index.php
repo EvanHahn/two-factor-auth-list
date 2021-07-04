@@ -132,7 +132,7 @@ function person($person) {
 
 	</p>
 
-	<p>Want to add a website? <a href="mailto:me@evanhahn.com">Send me an email</a> or <a href="https://github.com/EvanHahn/two-factor-auth-list/edit/master/data.json">send a pull request on GitHub</a>. I'll credit you and the internet will love you forever.</p>
+	<p>Want to add a website? <a href="mailto:me@evanhahn.com">Send me an email</a> or <a href="https://github.com/EvanHahn/two-factor-auth-list/edit/main/data.json">send a pull request on GitHub</a>. I'll credit you and the internet will love you forever.</p>
 
 	<p><a href="https://github.com/EvanHahn/two-factor-auth-list">Check this project out on GitHub</a>, too.</p>
 
