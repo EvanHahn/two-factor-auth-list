@@ -431,6 +431,10 @@
       "url": "https://my.vultr.com/settings/twofactor/"
     },
     {
+      "name": "WebOké",
+      "howto": "https://www.weboke.nl/knowledgebase/127/Hoe-schakel-ik-tweestapsverificatie-in.html"
+    },
+    {
       "name": "WHMCS",
       "howto": "https://www.whmcs.com/two-factor/"
     },
